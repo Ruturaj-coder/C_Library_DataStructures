@@ -1,4 +1,4 @@
-## Advanced Data Structures in C
+# Advanced Data Structures in C
 
 ## Table of Contents
 
